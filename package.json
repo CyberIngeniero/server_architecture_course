@@ -1,0 +1,25 @@
+{
+  "name": "server_architecture_course",
+  "version": "1.0.0",
+  "description": "Server architecture course repository of the Master of Full Stack Web Development 2022.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberIngeniero/server_architecture_course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyberIngeniero/server_architecture_course/issues"
+  },
+  "homepage": "https://github.com/CyberIngeniero/server_architecture_course#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonschema": "^1.4.1"
+  }
+}
