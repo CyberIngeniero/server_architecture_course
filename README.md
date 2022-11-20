@@ -11,11 +11,11 @@ Server architecture course repository of the Master of Full Stack Web Developmen
 
 - [x] Activity 1: Create a API HTTP with node & Express.js
 `commit: 71b2db57d889890c37a32689d36cdce337d96f55`
-- [] Activity 2: Add a API CRUD for POST method
+- [ ] Activity 2: Add a API CRUD for POST method
 `commit: `
-- [] Activity 3: Add authentication method for users
+- [ ] Activity 3: Add authentication method for users
 `commit: `
-- [] Activity 4: Add confirmation for register.
+- [ ] Activity 4: Add confirmation for register.
 `commit: `
 
 ## Documentation
